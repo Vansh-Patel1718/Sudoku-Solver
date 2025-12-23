@@ -113,5 +113,5 @@ Each of these steps is visualized in the GUI for clarity.
 ---
 
 ## Team Collaborators
-Tapasya Patel
-Varun Patel
+Tapasya Patel & Varun Patel
+
